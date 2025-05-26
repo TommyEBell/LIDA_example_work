@@ -1,1 +1,1 @@
-This Repo shows some example scripts created for university module assignments to display proficiency in python with a variety of techniques including model selection, classification, regression and monte carlo simulation. 
+This Repo shows some example scripts created for university module assignments. These documents display proficiency in python as well as in labelling code. A variety of useful techniques for data science are presented here, including model selection, classification, regression, and monte carlo simulation. 
