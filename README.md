@@ -1,1 +1,1 @@
-This Repo shows some example scripts created for university module assignments to display proficiency in 
+This Repo shows some example scripts created for university module assignments to display proficiency in python with a variety of techniques including model selection, classification, regression and monte carlo simulation. 
