@@ -1,2 +1,2 @@
 # This is to test the version control 
-print("Hella world")
+print("Hello world")
